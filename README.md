@@ -34,3 +34,5 @@
 
 ### 브랜치를 최신의 상태로 만들고 싶을 때
 - git reset --hard HEAD
+
+#### "written by YoonHwan"
